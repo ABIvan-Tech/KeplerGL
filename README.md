@@ -1,6 +1,6 @@
 # KeplerGL Kepler.GL
 
-My solution ho to install keplergl==0.1.1 (and may be other versions too) and use it into Jupyter (https://github.com/keplergl/kepler.gl)
+My solution how to install keplergl==0.1.1 (and may be other versions too) and use it into Jupyter (https://github.com/keplergl/kepler.gl)
 
 My current system config:
 Windows 10 Pro x64. Python 3.7.3 x64
